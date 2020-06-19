@@ -1,0 +1,14 @@
+.grid-col {
+  border: 2px solid;
+  padding: 20px;
+}
+
+.grid-row {
+  display: flex;
+}
+
+.grid-col-selected {
+ background-color: red;
+ border: 2px solid;
+ padding: 20px;
+}
